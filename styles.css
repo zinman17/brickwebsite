@@ -10,3 +10,24 @@ img.emoji {
   vertical-align: -0.1em;
   display: inline-block;
 }
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 10px 20px;
+  background-color: #ffffff;
+  z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.navbar h1 {
+  margin: 0;
+}
+
+.content {
+  margin-top: 80px;
+}
