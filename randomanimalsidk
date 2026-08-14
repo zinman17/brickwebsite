@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+    <title>random animals idk</title>
+  </head>
+  <body>
+    <a href="index.html">back</a> <h1>RANDOM ANIMALS</h1>
+    <img src="pufferfish.jpeg" style="width: 60px; height: auto;">
+    <br>
+    <p>pufferfish (requested by lear on discord)</p>
+  </body>
+</html>
